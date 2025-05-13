@@ -2,7 +2,7 @@
 
 A simulation based on Langton's Ant made with the soul purpose of creating trippy and interesting patterns.
 
-[Live Demo]([https://yourusername.github.io/anteater-sim/](https://ebrows0.github.io/AntEater/))
+[Live Demo](https://ebrows0.github.io/AntEater/)
 
 ---
 
